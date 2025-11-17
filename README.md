@@ -111,9 +111,9 @@ For the layout and distribution of the newsletter, we use MailChimp, which allow
 </ul>
 
 ## Repository Structure:
-/covers -> Holds thumbnail images of all newsletter covers. 
-/issues -> Full PDF issues.
-/docs -> Colour palettes, design notes and fonts. 
+/covers -> Holds thumbnail images of all newsletter covers. \n
+/issues -> Full PDF issues. \n
+/docs -> Colour palettes, design notes and fonts. \n
 README.md -> Project overview
 
 ## Reflection:
