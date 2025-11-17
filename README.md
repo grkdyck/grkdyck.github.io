@@ -22,22 +22,22 @@ The roles and responsibilities for this position do not just stop at the design,
 
 ## Gallery:
 <p align="center">
-  <img src="covers/November2025.png" width="220px" />
-  <img src="covers/September2025.png" width="220px" />
-  <img src="covers/June2025.png" width="220px" />
-  <img src="covers/April2025.png" width="220px" />
-  <img src="covers/March2025.png" width="220px" />
-  <img src="covers/February2025.png" width="220px" />
-  <img src="covers/January2025.png" width="220px" />
-  <img src="covers/ReviewSessDec2024.png" width="220px" />
-  <img src="covers/December2024.png" width="220px" />
-  <img src="covers/November2024.png" width="220px" />
-  <img src="covers/October2024.png" width="220px" />
-  <img src="covers/Special2024.png" width="220px" />
-  <img src="covers/September2024.png" width="220px" />
-  <img src="covers/August2024.png" width="220px" />
-  <img src="covers/July2024.png" width="220px" />
-  <img src="covers/June2024.png" width="220px" />
+  <img src="covers/November2025.png" height="300px" />
+  <img src="covers/September2025.png" height="300px" />
+  <img src="covers/June2025.png" height="300px" />
+  <img src="covers/April2025.png" height="300px" />
+  <img src="covers/March2025.png" height="300px" />
+  <img src="covers/February2025.png" height="300px" />
+  <img src="covers/January2025.png" height="300px" />
+  <img src="covers/ReviewSessDec2024.png" height="300px" />
+  <img src="covers/December2024.png" height="300px" />
+  <img src="covers/November2024.png" height="300px" />
+  <img src="covers/October2024.png" height="300px" />
+  <img src="covers/Special2024.png" height="300px" />
+  <img src="covers/September2024.png" height="300px" />
+  <img src="covers/August2024.png" height="300px" />
+  <img src="covers/July2024.png" height="300px" />
+  <img src="covers/June2024.png" height="300px" />
 </p>
 
 ## Featured Issues:
