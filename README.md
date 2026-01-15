@@ -22,6 +22,7 @@ The roles and responsibilities for this position do not just stop at the design,
 
 ## Gallery:
 <p align="center">
+  <img src="covers/January2026.png" height="300px" />
   <img src="covers/ReviewSessionsFall2025.png" height="300px" />
   <img src="covers/November2025.png" height="300px" />
   <img src="covers/September2025.png" height="300px" />
@@ -39,6 +40,7 @@ The roles and responsibilities for this position do not just stop at the design,
   <img src="covers/August2024.png" height="300px" />
   <img src="covers/July2024.png" height="300px" />
   <img src="covers/June2024.png" height="300px" />
+  
 </p>
 
 ## Featured Issues:
