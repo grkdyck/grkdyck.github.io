@@ -52,6 +52,7 @@ This issue is one of my favourites. Showcasing the lightness of spring, this new
 <b>Theme:</b> "Spring has Sprung!" - Florals, foliage, and all sorts of springtime insects. This theme was chosen as an introduction to better weather after a dark winter, and as an ode to the colourful life of the blooming UVic campus. It features a large variety of bright and pastel colours, chosen specifically to invoke the wide variety of flowers popping up across the UVic campus in the spring. 
 <b>Fonts:</b> "Playpen Sans" for Headings and "Sunday" for the signature bold "WECS" on the cover.
 <b>Cover Concept:</b> Each cover features the "WECS Scoop", an ice cream scoop customized to reflect the theme of the month. For this month, it was filled with flowers, grass and clovers. Essentially, it was a scoop full of springtime. 
+
 #### Highlights:
 <ul>
   <li> Custom spring-themed graphics, and curated colour palettes. </li>
@@ -65,6 +66,7 @@ A recent favourite, the November 2025 issue was the most graphic-heavy newslette
 <b>Theme:</b> "A Calm and Warm Fall" - Using warm hues such as brown and orange, my goal for this edition was for it to feel warm, almost like a cup of hot chocolate on a crisp day. 
 <b>Fonts:</b> "Alex Brush" for the cover calligraphy and "Bugaki" for the signature bold "WECS" on the cover and the headers. Lato is chosen, as with all editions, for body text as it is clear and easier to read on mobile devices. 
 <b>Cover Concept:</b> This month's scoop was filled with seasonal gourds, flowers, fallen leaves (in colours chosen to be similar to those you would find falling on the UVic campus), and a poppy as a nod to the Remembrance Day holiday. 
+
 #### Highlights:
 <ul>
   <li> Specially curated colour scheme and graphics that tie in well with the theme. </li>
