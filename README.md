@@ -59,7 +59,8 @@ This issue is one of my favourites. Showcasing the lightness of spring, this new
   <li> Engaging opening and closing paragraphs, each with springtime elements.  </li>
   <li> Custom focus-engaging aspects, such as the floral word search and the hidden "lucky" clover. </li>
 </ul>
-## November 2025
+
+### November 2025
 A recent favourite, the November 2025 issue was the most graphic-heavy newsletter to date, and it was my first foray into using a custom background in Mailchimp. After a bit of toggling, the siding effect brought this edition to life, especially when compared to the colour-matching section dividers, headers, and the cover page. For this newsletter, I took direct peer feedback regarding aspects of the design, such as the background image, and the outline effect on the headers. 
 <b>Theme:</b> "A Calm and Warm Fall" - Using warm hues such as brown and orange, my goal for this edition was for it to feel warm, almost like a cup of hot chocolate on a crisp day. 
 <b>Fonts:</b> "Alex Brush" for the cover calligraphy and "Bugaki" for the signature bold "WECS" on the cover and the headers. Lato is chosen, as with all editions, for body text as it is clear and easier to read on mobile devices. 
