@@ -120,10 +120,12 @@ For the layout and distribution of the newsletter, we use MailChimp, which allow
 </ul>
 
 ## Repository Structure:
-/covers -> Holds thumbnail images of all newsletter covers. <br>
+<a href="https://github.com/grkdyck/grkdyck.github.io/tree/main/covers">"/covers"/a> -> Holds thumbnail images of all newsletter covers. <br>
 /issues -> Full PDF issues. <br>
 /docs -> Colour palettes, design notes and fonts. <br>
 README.md -> Project overview
+
+https://github.com/grkdyck/grkdyck.github.io/tree/main/covers
 
 ## Reflection:
 Creating the WECS newsletter has strengthened my ability to successfully communicate both technical and academic content in a clear, engaging way that incorporates organizational values with personal touches. It has also helped me develop project coordination skills, editorial judgement, and design thinking skills that I have been able to translate directly into technical documentation and communication in mathematical and computer science environments. 
