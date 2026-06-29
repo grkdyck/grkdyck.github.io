@@ -131,27 +131,4 @@ README.md -> Project overview
 Creating the WECS newsletter has strengthened my ability to successfully communicate both technical and academic content in a clear, engaging way that incorporates organizational values with personal touches. It has also helped me develop project coordination skills, editorial judgement, and design thinking skills that I have been able to translate directly into technical documentation and communication in mathematical and computer science environments. 
 
 ## Archive:
-To access the complete collection of WECS newsletters created during my time as Newsletter Director, please see the /issues folder <a href="https://github.com/grkdyck/grkdyck.github.io/tree/main/issues">here</a> or click on the individual links below. 
-
-WECS June Newsletter 2026
-WECS March Newsletter 2026
-WECS February Newsletter 2026
-WECS January Newsletter 2026
-
-Final Exam Review Sessions! December 2025
-WECS November Newsletter 2025
-WECS September Newsletter 2025
-WECS June Newsletter 2025
-WECS April Newsletter 2025
-WECS March Newsletter 2025
-WECS February Newsletter 2025
-WECS January Newsletter 2025
-
-WECS Upcoming Review Sessions and Events 2024
-WECS December Newsletter 2024
-WECS November Newsletter 2024
-WECS Spooky October Newsletter 2024
-WECS Special Newsletter 2024
-WECS September Newsletter 2024
-WECS August Newsletter 2024
-WECS July Newsletter 2024
+To access the complete collection of WECS newsletters created during my time as Newsletter Director, please see the /issues folder <a href="https://github.com/grkdyck/grkdyck.github.io/tree/main/issues">here</a> or click on the individual links in this <a href = "https://us21.campaign-archive.com/home/?u=f1586a8f88c058352d03ee000&id=544c4e006e">list.</a>
