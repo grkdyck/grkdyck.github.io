@@ -8,6 +8,14 @@ This repository showcases the work I have done in the designing and production o
 
 As Newsletter Director, I lead the full creative process from theme development and layout design to content curation, editing and publication, in accordance with WECS principles, values, and input from the team on related content. This work has taught me a lot about communication in STEM, and demonstrates my skills in visual communication, editorial writing, project coordination and outreach. 
 
+### Publication Guide:
+This guide documents the workflow, design standards, content planning process, and publication procedures developed during my tenure as Newsletter Director for the Women in Engineering and Computer Science Society (WECS).
+
+While intended to support future Newsletter Directors during role transitions, it also serves as an example of process documentation developed to improve consistency, knowledge transfer, and long-term sustainability of the newsletter.
+
+View the guide <a href="https://github.com/grkdyck/grkdyck.github.io/blob/main/WECS_Newsletter_Production_Guide.pdf">here</a>.
+
+
 ## My Responsibilities:
 The roles and responsibilities for this position do not just stop at the design, they also include the following. 
 
