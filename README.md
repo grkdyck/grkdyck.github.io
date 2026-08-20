@@ -13,7 +13,7 @@ This guide documents the workflow, design standards, content planning process, a
 
 While intended to support future Newsletter Directors during role transitions, it also serves as an example of process documentation developed to improve consistency, knowledge transfer, and long-term sustainability of the newsletter.
 
-Download the guide <a href="https://github.com/grkdyck/grkdyck.github.io/blob/main/WECS_Newsletter_Production_Guide.pdf" class = "image fit" >here</a>, or view it in a markdown file <a href="https://github.com/grkdyck/grkdyck.github.io/blob/main/WECS_Newsletter_Production_Guide.jpg" class = "image fit" >here</a>.
+Download the guide <a href="https://github.com/grkdyck/grkdyck.github.io/blob/main/WECS_Newsletter_Production_Guide.pdf" class = "image fit" >here</a>.
 
 ## My Responsibilities:
 The roles and responsibilities for this position do not just stop at the design, they also include the following. 
